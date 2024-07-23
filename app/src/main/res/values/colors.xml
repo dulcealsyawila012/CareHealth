@@ -1,0 +1,12 @@
+<resources>
+    <!-- Warna standar aplikasi -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryVariant">#3700B3</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#03DAC6</color>
+    <color name="colorSecondaryVariant">#018786</color>
+    <color name="colorOnSecondary">#000000</color>
+
+    <!-- Warna tambahan yang Anda gunakan -->
+    <color name="primaryColor">#FF0000</color> <!-- Sesuaikan dengan warna yang Anda inginkan -->
+</resources>
